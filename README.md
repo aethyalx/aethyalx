@@ -54,14 +54,8 @@ let's connect and create something amazing!
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/aethyal" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-                width="32" height="32" /> </picture>
-    </a> <a href="https://www.github.com/aethyalx" target="_blank" rel="noreferrer">
+<p align="left"> 
+        <a href="https://www.github.com/aethyalx" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -85,14 +79,8 @@ let's connect and create something amazing!
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
                 width="32" height="32" /> </picture>
-    </a> <a href="https://www.twitch.tv/aethyal_" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://ongpng.com/wp-content/uploads/2023/09/twitch-logo.png" />
-            <img src="https://ongpng.com/wp-content/uploads/2023/09/twitch-logo.png"
-                width="32" height="32" /> </picture>
-    </a></p>
+    </a>
+</p>
 
 ### Badges
 
