@@ -89,8 +89,8 @@ let's connect and create something amazing!
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="undefined" />
             <source media="(prefers-color-scheme: light)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg"
+                srcset="https://ongpng.com/wp-content/uploads/2023/09/twitch-logo.png" />
+            <img src="https://ongpng.com/wp-content/uploads/2023/09/twitch-logo.png"
                 width="32" height="32" /> </picture>
     </a></p>
 
