@@ -5,7 +5,7 @@ Josh (aethyal)
 Learning frontend development
 -----------------------------
 
-At 27, I'm deeply immersed in self-taught frontend development, Lua, and especially FiveM/RedM development. My passion
+At 28, I'm deeply immersed in self-taught frontend development, Lua, and especially FiveM/RedM development. My passion
 lies in blending the art of code with the thrill of game modding. I'm on a continuous journey to explore new
 technologies, tackle challenges, and build immersive web and gaming experiences. Keen on collaboration and innovation,
 let's connect and create something amazing!
